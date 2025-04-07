@@ -1,54 +1,15 @@
-# 📊 Data Visualization Project
-
-Welcome to my Data Visualization project! This project focuses on transforming raw data into clear, compelling, and insightful visuals using Python and libraries like Matplotlib, Seaborn, and Plotly.
-
----
-
-## 🚀 Project Objective
-
-The goal of this project is to explore, analyze, and visualize real-world data to uncover trends, patterns, and insights that support better understanding and decision-making.
-
----
-
-## 📁 Dataset
-
-- **Dataset Used**: Montreal Crime Data  
-- **Source**: *[kaggle]*  
-- **Description**: This dataset includes crime records with details like category, date, location (postal code, neighborhood), and geographic coordinates (latitude & longitude).
-
----
-
-## 🛠️ Tools & Technologies
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-0C5A5E?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
-
----
-
-## 📊 Visualizations Included
-
-- 📌 Bar chart: Crime count by category  
-- 📈 Line chart: Crime trend over time  
-- 🔥 Heatmap: Crime density by neighborhood  
-- 🗺️ Map plot: Crime locations using latitude and longitude  
-- ➕ Running total visualization using `cumsum()`
-
----
-
-## 🧠 Key Insights
-
-- Most common types of crime  
-- Seasonal or yearly crime trends  
-- Crime hotspots by area  
-- Temporal analysis using running totals  
-
----
-
-## 📂 Folder Structure
+# Project Description 
+Conducted an in-depth analysis of IMDb movie ratings to identify factors influencing viewer ratings, including genre, budget, lead actor, and movie duration. 
+Built a predictive model to understand and forecast rating patterns.
+# Project Scope 
+ Exploratory Data Analysis: 
+Conducted statistical and visual analyses to uncover trends in ratings and viewer preferences.
+Predictive Modeling:
+Developed a Random Forest Regression model to predict movie ratings based on key features (e.g., lead actor, duration, budget). Achieved a Mean Squared Error (MSE) of 0.94.
+Feature Importance:
+Identified that movie duration and lead actor significantly impact viewer ratings.
+Visualization:
+Created bar charts, scatter plots, and feature importance graphs to present insights effectively.
+# Tools and Libraries
+•	Tools Used: Python (Pandas, Scikit-learn, Matplotlib, Seaborn), IMDb dataset.
 
